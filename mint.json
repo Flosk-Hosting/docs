@@ -8,11 +8,11 @@
   "favicon": "/favicon.svg",
   "colors": {
     "primary": "#030a66",
-    "light": "#07C983",
+    "light": "#1900a8",
     "dark": "#030233",
     "anchors": {
-      "from": "#0D9373",
-      "to": "#07C983"
+      "from": "#030a66",
+      "to": "#030233"
     }
   },
   "topbarLinks": [
@@ -25,6 +25,12 @@
     "name": "Client Area",
     "url": "https://cm.flosk.host/"
   },
+  "tabs": [
+    {
+      "name": "API Reference",
+      "url": "api-reference"
+    }
+  ],
   "anchors": [
     {
       "name": "Documentation",
