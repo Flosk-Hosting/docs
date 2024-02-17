@@ -18,12 +18,11 @@
       "from": "#030a66",
       "to": "#030233"
     },
-  
-  "ModeToggle": {
-  "default": "dark",
-  "isHidden": true
-}
-
+  },
+  "modeToggle": {
+    "isHidden": true,
+    "default": "dark"
+  },
   },
   "topbarLinks": [
     {
