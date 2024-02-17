@@ -8,7 +8,7 @@
   "favicon": "/favicon.svg",
   "colors": {
     "primary": "#030a66",
-    "light": "#0a07b0",
+    "light": "#07C983",
     "dark": "#030233",
     "anchors": {
       "from": "#0D9373",
@@ -22,14 +22,8 @@
     }
   ],
   "topbarCtaButton": {
-    [
     "name": "Client Area",
     "url": "https://flosk.host/"
-    ]
-    {
-      "name": "Main Site",
-      "url": "https://flosk.host/"
-    }
   },
   "tabs": [
     {
