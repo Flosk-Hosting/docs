@@ -8,10 +8,15 @@
   "favicon": "/favicon.svg",
   "colors": {
     "primary": "#030a66",
+    "light": ""
     "dark": "#030233",
     "anchors": {
       "from": "#030a66",
       "to": "#030233"
+    }
+     "modeToggle": {
+     "default": "dark",
+      "isHidden": true
     }
   },
   "topbarLinks": [
@@ -86,5 +91,7 @@
     "twitter": "https://twitter.com/mintlify",
     "github": "https://github.com/mintlify",
     "linkedin": "https://www.linkedin.com/company/mintsearch"
+
+  
   }
 }
