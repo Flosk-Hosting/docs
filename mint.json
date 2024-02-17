@@ -23,14 +23,8 @@
   ],
   "topbarCtaButton": {
     "name": "Client Area",
-    "url": "https://flosk.host/"
+    "url": "https://cm.flosk.host/"
   },
-  "tabs": [
-    {
-      "name": "API Reference",
-      "url": "api-reference"
-    }
-  ],
   "anchors": [
     {
       "name": "Documentation",
