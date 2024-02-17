@@ -1,5 +1,5 @@
 {
-  "$schema": "https://mintlify.com/schema.json",
+"$schema": "https://mintlify.com/schema.json",
   "name": "Flosk Hosting",
   "logo": {
     "dark": "/logo/dark.svg",
@@ -12,7 +12,7 @@
     "dark": "#030233",
     "anchors": {
       "from": "#030a66",
-      "to": "#030233",
+      "to": "#030233"
     },
      "modeToggle": {
      "default": "dark",
