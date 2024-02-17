@@ -11,15 +11,14 @@
   "favicon": "/favicon.svg",
 
   "colors": {
-    "primary": "#030a66",
+    "primary": "#ff0000",
     "light": "#55D799",
-    "dark": "#030233",
-  }
+    "dark": "#030233"
+  },
     "anchors": {
       "from": "#2836ed",
       "to": "#030233"
-    }
-  },
+    },
     "modeToggle": {
     "isHidden": true,
     "default": "dark"
