@@ -13,10 +13,10 @@
     "anchors": {
       "from": "#030a66",
       "to": "#030233",
-    }
+    },
      "modeToggle": {
      "default": "dark",
-      "isHidden": "true",
+      "isHidden": "true"
     }
   },
   "topbarLinks": [
