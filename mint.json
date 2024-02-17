@@ -1,11 +1,14 @@
 {
 "$schema": "https://mintlify.com/schema.json",
+
   "name": "Flosk Hosting",
+
   "logo": {
     "dark": "/logo/dark.svg",
     "light": "/logo/light.svg"
   },
   "favicon": "/favicon.svg",
+
   "colors": {
     "primary": "#030a66",
     "light": "#1900a8",
@@ -14,9 +17,10 @@
       "from": "#030a66",
       "to": "#030233"
     },
-    "modeToggle": {
-      "default": "dark",
-        "isHidden": true
+  
+  "modeToggle": {
+    "default": "dark",
+    "isHidden": true
     }
   },
   "topbarLinks": [
