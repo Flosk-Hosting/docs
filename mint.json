@@ -12,7 +12,7 @@
     "dark": "#030233",
     "anchors": {
       "from": "#030a66",
-      "to": "#030233"
+      "to": "#030233",
     }
      "modeToggle": {
      "default": "dark",
