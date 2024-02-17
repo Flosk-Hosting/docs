@@ -17,6 +17,7 @@
     "anchors": {
       "from": "#2836ed",
       "to": "#030233"
+    }
   },
     "modeToggle": {
     "isHidden": true,
