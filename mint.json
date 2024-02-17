@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Starter Kit",
+  "name": "FLosk Hosting",
   "logo": {
     "dark": "/logo/dark.svg",
     "light": "/logo/light.svg"
@@ -22,8 +22,14 @@
     }
   ],
   "topbarCtaButton": {
-    "name": "Dashboard",
-    "url": "https://dashboard.mintlify.com"
+    [
+    "name": "Main Site",
+    "url": "https://flosk.host/"
+    ]
+    {
+      "name": "Main Site",
+      "url": "https://flosk.host/"
+    }
   },
   "tabs": [
     {
