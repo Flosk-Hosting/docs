@@ -14,8 +14,8 @@
       "from": "#030a66",
       "to": "#030233"
     },
-     "modeToggle": {
-     "default": "dark",
+    "modeToggle": {
+      "default": "dark",
       "isHidden": true
     }
   },
