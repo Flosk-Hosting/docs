@@ -19,7 +19,7 @@
       "to": "#030233"
     },
   
-  "modeToggle": {
+  "ModeToggle": {
   "default": "dark",
   "isHidden": true
 }
