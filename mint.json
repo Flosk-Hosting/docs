@@ -17,13 +17,13 @@
   },
   "topbarLinks": [
     {
-      "name": "Support",
-      "url": "mailto:hi@mintlify.com"
+      "name": "Main Site",
+      "url": "https://flosk.host/"
     }
   ],
   "topbarCtaButton": {
     [
-    "name": "Main Site",
+    "name": "Client Area",
     "url": "https://flosk.host/"
     ]
     {
