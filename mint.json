@@ -9,9 +9,6 @@
   "colors": {
     "primary": "#030a66",
     "light": "#1900a8",
-      "modeToggle": {
-      "isHidden": true
-        },
     "dark": "#030233",
     "anchors": {
       "from": "#030a66",
