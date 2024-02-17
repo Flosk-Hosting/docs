@@ -11,7 +11,7 @@
   "favicon": "/favicon.svg",
 
   "colors": {
-    "primary": "#030a66",
+    "primary": "#ff0000",
     "light": "#55D799",
     "dark": "#030233",
     "anchors": {
